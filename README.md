@@ -32,7 +32,7 @@ Remix - Ethereum IDE
 * withdrawing 10 Ether to account2 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
 * Shows contractBalance, lastToWithdraw, and lastWithdrawAmount on Remix IDE pannel
 
-  ![Screanshot](https://github.com/alghalia/challenge_20/blob/main/)
+  ![Screanshot](https://github.com/alghalia/Challenge_20/blob/main/Execution_Results/Deposited%201%20Ether.png)
 
 
 ---

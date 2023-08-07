@@ -7,9 +7,9 @@ Remix - Ethereum IDE
 
 ##Usage
 
-This image displays the contract deployment and the 1st deposit
-Deposited 1 Ether in wei (1000000000000000000 wei) 
-Shows new contractBalance 1000000000000000000 on the Remix IDE panel
+* This image displays the contract deployment and the 1st deposit
+* Deposited 1 Ether in wei (1000000000000000000 wei) 
+* Shows new contractBalance 1000000000000000000 on the Remix IDE panel
 
 This image displays the 2nd deposit
 Deposited 10 Ether in wei (5000000000000000000 wei) 

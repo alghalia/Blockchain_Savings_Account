@@ -5,7 +5,7 @@ This is an application based on a Solidity smart contract that automates the cre
 Solidity v0.5.0
 Remix - Ethereum IDE
 
-##Usage
+## Usage
 
 * This image displays the contract deployment and the 1st deposit
 * Deposited 1 Ether in wei (1000000000000000000 wei) 
